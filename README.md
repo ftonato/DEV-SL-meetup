@@ -19,7 +19,7 @@ Horário | Apresentação | Apresentador
 09:15 | [Abertura](#abertura) | Organizadores
 09:30 | [Como começar na área de programação](#como-começar-na-área-de-programação) | Guilherme Michel
 10:00 | [Desenvolvimento mobile](#desenvolvimento-mobile) | Régis Ximendes
-10:30 | [É possível desenvolver em Linux?](#e-possivel-desenvolver-em-linux) | Gabriel Becker
+10:30 | [É possível desenvolver em Linux?](#É-possível-desenvolver-em-linux) | Gabriel Becker
 11:00 | [Automatização de tarefas com Linux](#automatização-de-tarefas-com-linux) | Thiago Galvani
 11:30 | [Como contribuir para projetos Open Source](#como-contribuir-para-projetos-open-source) | Ademílson F. Tonato
 12:00 | [Encerramento](#encerramento) | Organizadores

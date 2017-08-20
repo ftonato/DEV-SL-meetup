@@ -40,7 +40,7 @@ Horário | Apresentação | Apresentador
 > - Thiago Galvani
 ## Como contribuir para projetos Open Source
 > Porque faz sentido ajudar em projetos open source e como começar a participar...
-> - Ademílson F. Tonato/Lucas F. Tonato
+> - Ademílson F. Tonato *(Lucas)
 ## Abertura
 - Agradecimentos finais do meetup.
 

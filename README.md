@@ -2,7 +2,7 @@
 
 ## Sobre o Evento
 
-...
+O DEV-SL em parceria com o curso [Análise e Desenvolvimento de Sistemas](http://www.unisinos.br/graduacao/analise-e-desenvolvimento-de-sistemas/presencial/sao-leopoldo), da [Unisinos](http://www.unisinos.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia 02 de setembro de 2017 a partir das 8:30h na Unisinos em São Leopoldo.
 
 [Código de Conduta do DEV-SL](codigo-de-conduta.md)
 
@@ -45,13 +45,15 @@ Horário | Apresentação | Apresentador
 - Agradecimentos finais do meetup.
 
 ## Local
-À definir
+O evento acontecer no dia 02 de setembro de 2017 a partir das 8:30h na Unisinos em São Leopoldo.
+> Veja o mapa - https://goo.gl/maps/6txo4J9EntB2
 
 ## Apoio
 
 ### Institucional
-> Link para o site da instituição que ceder o espaço para o evento.
+<img width="172" src="http://www.unisinos.br/images/redes-sociais/portal-unisinos.png" alt="Unisinos" />
 
+> A universidade Unisinos preza pela capacidade de ser inovadora e acredita na educação para toda a vida. Graduação, Pós-Graduação, Tecnológicos e EAD. - http://www.unisinos.br/
 ### Patrocinio
 
 #### BrazilJS

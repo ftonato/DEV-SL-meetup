@@ -41,7 +41,7 @@ Horário | Apresentação | Apresentador
 ## Como contribuir para projetos Open Source
 > Porque faz sentido ajudar em projetos open source e como começar a participar...
 > - Ademílson F. Tonato *(Lucas)
-## Abertura
+## Encerramento
 - Agradecimentos finais do meetup.
 
 ## Local

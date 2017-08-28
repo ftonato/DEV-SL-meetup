@@ -9,7 +9,7 @@ O DEV-SL em parceria com o curso [Análise e Desenvolvimento de Sistemas](http:/
 ## Inscrições
 
 O evento tem **entrada franca**.
-As inscrições para o evento estarão abertas até o dia 25 de agosto de 2017, ou até se esgotarem as 20 vagas.  
+As inscrições para o evento estarão abertas até o dia 31 de agosto de 2017, ou até se esgotarem as 20 vagas.  
 [Inscreva-se agora!](https://goo.gl/forms/DbvaYLAOVMkZRgC43)
 
 ## Programação

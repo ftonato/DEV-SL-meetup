@@ -48,6 +48,9 @@ Horário | Apresentação | Apresentador
 O evento acontecer no dia 02 de setembro de 2017 a partir das 8:30h na Unisinos em São Leopoldo.
 > Veja o mapa - https://goo.gl/maps/6txo4J9EntB2
 
+- Como encontrar a sala do evento?  
+Acesse [CAMPUS SÃO LEOPOLDO - LOCALIZE-SE NO MAPA](http://www.unisinos.br/mapa/localiza-se-campus-sao-leopoldo.php), e digite "C02238" que o mapa irá te ajudar a se localizar dentro do campus.
+
 ## Apoio
 
 ### Institucional

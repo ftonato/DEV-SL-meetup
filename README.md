@@ -10,7 +10,8 @@ Se você nunca teve a oportunidade de participar de um encontro e quer vir assis
 
 Gostaria de propor um encontro em outro lugar ou qualquer atividade semelhante? Entre em contato com um dos nossos organizadores para marcarmos.
 
-> [Viver em um lugar onde não existem eventos interessantes para o pessoal da TI, não me parece confortável.](https://twitter.com/ftonato/status/902599747785117697)
+> [Viver em um lugar onde não existem eventos interessantes para o pessoal da TI, não me parece confortável.](https://twitter.com/ftonato/status/902599747785117697)  
+>
 > -- @ftonato
 
 ## Código de Conduta

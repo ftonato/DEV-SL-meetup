@@ -1,4 +1,5 @@
 # DEV-SL meetup
+<img src="devsl-meetup.png" alt="DEV-SL meetup" width="250">
 
 ## Sobre o Evento
 

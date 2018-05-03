@@ -21,5 +21,7 @@ O nosso [Código de Conduta Ética](codigo-de-conduta.md) ajuda a proteger a nos
 
 ## Últimos encontros
 
-#### [2017](2017/README.md)
-- [02/09](2017/02-09.md)
+#### [2018](editions/README.md)
+- [Abril](editions/04-2018.md)
+#### [2017](editions/README.md)
+- [Setembro](editions/09-2017.md)
